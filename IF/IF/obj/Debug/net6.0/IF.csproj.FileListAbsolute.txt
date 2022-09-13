@@ -1,0 +1,15 @@
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.csproj.AssemblyReference.cache
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.AssemblyInfoInputs.cache
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.AssemblyInfo.cs
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.csproj.CoreCompileInputs.cache
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\bin\Debug\net6.0\IF.exe
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\bin\Debug\net6.0\IF.deps.json
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\bin\Debug\net6.0\IF.runtimeconfig.json
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\bin\Debug\net6.0\IF.dll
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\bin\Debug\net6.0\IF.pdb
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.dll
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\refint\IF.dll
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.pdb
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\IF.genruntimeconfig.cache
+D:\I KNOW\İŞKUR\13.09.2022-IF-SWITCH\IF\IF\IF\obj\Debug\net6.0\ref\IF.dll
